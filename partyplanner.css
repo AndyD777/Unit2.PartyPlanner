@@ -1,0 +1,8 @@
+body { font-family: Arial; margin: 20px; }
+    h1 { text-align: center; }
+    .party { border: 1px solid #ccc; padding: 10px; margin-bottom: 10px; }
+    .party h3 { margin: 0; }
+    .party button { background: red; color: white; border: none; padding: 5px 10px; cursor: pointer; }
+    form { margin-top: 20px; }
+    form input, form textarea { display: block; margin-bottom: 10px; width: 100%; padding: 8px; }
+    form button { padding: 10px; background: green; color: white; border: none; cursor: pointer; }
